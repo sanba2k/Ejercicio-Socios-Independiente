@@ -32,14 +32,14 @@ P;numeroSocio;nombre;antiguedad;cuotaMensual;beneficio
 ---
 
 ## 📂 Ejemplo de archivo
-
+S;1000;Javier Molina;23;8000
 S;1001;Juan Perez;2;8000  
 P;1002;Ana Gomez;5;12000;PLATEA  
 S;1003;Luis Diaz;1;7000  
 P;1004;Carlos Ruiz;3;15000;PALCO  
 S;1005;Martin Suarez;4;9000  
 P;1006;Sofia Lopez;6;14000;PLATEA  
-
+S;1007;Daniel Bazan;18;5000
 ---
 
 ## 🧱 Requisitos
