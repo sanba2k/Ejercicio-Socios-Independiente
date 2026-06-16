@@ -82,14 +82,23 @@ Otro → +3000
 🧪 Funcionalidades a implementar
 
 Leer el archivo y cargar los socios en el HashMap.
+
 Mostrar todos los socios con su cuota final.
+
 Buscar un socio por número.
+
 Calcular la recaudación total del club utilizando Streams.
+
 Obtener el socio que paga la cuota más alta utilizando Streams.
+
 Contar cuántos socios Premium hay.
+
 Mostrar socios cuya cuota final sea mayor a $15000.
+
 Calcular el promedio de cuota de socios simples.
+
 Obtener una lista con los nombres de socios Premium.
+
 Mostrar los números de socio ordenados de mayor a menor según cuota final.
 
 🚀 Conceptos a aplicar
